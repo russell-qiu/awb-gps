@@ -1,5 +1,5 @@
 # awb-gps
-移动特联网网关平台
+移动物联网网关平台
 Mobile Internet gateway platform
 测试硬件产品可以联系深圳大河北斗技术有限公司的 
 Test hardware products can contact Shenzhen Dahe Beidou Technology Co., Ltd.
