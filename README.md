@@ -2,7 +2,7 @@
 移动物联网网关平台
 Mobile Internet gateway platform
 测试硬件产品可以联系深圳特码技术有限公司的 
-Test hardware products can contact Shenzhen Dahe Beidou Technology Co., Ltd.
+Test hardware products can contact Shenzhen Dahe TM Technology Co., Ltd.
 QIU 或E-MAIL：fs_seo@126.com  13826549354
 **************************************************************************************************************
 一、硬件配置
